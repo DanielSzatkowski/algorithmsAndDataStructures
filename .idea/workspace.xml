@@ -49,6 +49,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Spring/JokeApp2" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -63,6 +64,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2663" y="242" width="424" height="528" key="FileChooserDialogImpl" timestamp="1600679689762">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="242" width="424" height="528" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600679689762" />
     <state x="2384" y="45" width="992" height="841" key="SettingsEditor" timestamp="1600679094627">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
